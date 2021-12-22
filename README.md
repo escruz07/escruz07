@@ -13,7 +13,7 @@ const escruz07 = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS],
   tools: [React, Redux, Express, Sequelize, NodeJS, PostgresSQL, Git, Github],
-  where: "In Medellin Colombia but I adapt to any possibility"
+  where: "In Medellin Colombia but I adapt to any possibility",
   about me: "I was always passionate about all kinds of technology. 
   I decided to study PROGRAMMING and it was the best thing I did in my life. 
   Thanks to my commercial experience, I have a great capacity to empathize with people and 
