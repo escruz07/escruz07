@@ -13,7 +13,9 @@ const escruz07 = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS],
   tools: [React, Redux, Express, Sequelize, NodeJS, PostgresSQL, Git, Github],
+  }
+ ```
   
 ---
 
-⭐️ From [GitHub escruz07](https://github.com/escruz07)
+<p><em>From <a href="https://github.com/escruz07">Esteban Cruz</a>⭐️
